@@ -11,5 +11,3 @@ Required fields: `caseid`, `activity`, and `dateTime`.
 File: `small_business_credit_approval.xlsx`
 
 Required fields: `SERIALNO`, `OBJECTNO`, `PHASENO`, `PHASENAME`, `BEGINTIME`, and `ENDTIME`.
-
-Use and redistribution of both files remain subject to the data owners' confidentiality and authorization requirements.
