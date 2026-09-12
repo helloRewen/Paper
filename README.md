@@ -1,6 +1,6 @@
 # Experiment Code and Data
 
-This package contains the data-processing procedures, model-estimation code, statistical analyses, and tabular outputs used in the study of prefix-based early warning and process governance. Each manuscript table has one executable Python file with the same table number. Figure-generation code and graphical outputs are not included.
+This package contains the data-processing procedures, model-estimation code, statistical analyses, and tabular outputs used in the study of prefix-based early warning and process governance. Each manuscript table has one executable Python file with the same table number.
 
 ## Data
 
@@ -11,8 +11,6 @@ This package contains the data-processing procedures, model-estimation code, sta
 | `bpi2014_rabobank_ict`           | BPI Challenge 2014 Rabobank ICT Incident Activity Log | `data/public/bpi2014_rabobank_ict.csv`             |
 | `bpi2017_offer_log`              | BPI Challenge 2017 Offer Log                          | `data/public/bpi2017_offer_log.xes.gz`             |
 | `bpi2020_request_for_payment`    | BPI Challenge 2020 Request for Payment Log            | `data/public/bpi2020_request_for_payment.xes.gz`   |
-
-The two bank-owned datasets are not redistributed. Place authorized copies under `data/private` before running the complete workflow. The three BPI Challenge logs are stored under `data/public`.
 
 ## Code Layout
 
